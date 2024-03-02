@@ -1,4 +1,4 @@
-# Neural-Knights
+# Neural-Knights : The Personal Voice Memory Assistant 
 *Introduction:*
 The Personal Voice Memory Assistant is a custom voice assistant designed to provide a unique and deeply personal experience for users. Unlike traditional voice assistants, this innovative system integrates the emotional connection of a user's voice with the memories of a loved one or a distant friend. By capturing voice samples and incorporating them into the assistant's responses, the project aims to provide comfort and companionship to individuals who may be longing for the presence of someone special.
 
